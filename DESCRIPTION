@@ -1,0 +1,18 @@
+Package: faultyPkg
+Title: FIX DIFFICULT PROBLEM
+Version: 0.0.1
+Authors@R: 
+    person("John", "Doe", , "john.doe@campus.unimib.it", role = c("aut", "cre"),
+           comment = c(ORCID = "1234"))
+Description: This package solves a very difficult statistical problem.
+License: I don't care about licenses :)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
+URL: https://github.com/agila5/faultyPkg
+BugReports: https://github.com/agila5/faultyPkg/issues
